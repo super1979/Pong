@@ -1,8 +1,3 @@
-'''
-A modified version of Pong. The original code is in the same folder named as original.py.
-Comments are places where the modification has occurred.
-No turtle used
-'''
 import tkinter as tk
 import random
 import winsound
